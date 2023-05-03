@@ -1,2 +1,2 @@
-# Project Files for the CMU Summer 2022 Internship Experience.
+# Project Files for the Summer 2022 Project
 Title: Warning System for Drivers with Object and Facial Expression Detection
